@@ -72,7 +72,7 @@ GitHub recently released a feature that allows users to create a profile-level R
 
 # 3.  Commit your fancy new README!
     
-    -   If you're on GitHub's web interface you can choose to commit directly to the repo's main branch (i.e.,  `master`  or  `main`) which will make it immediately visible on your profile)
+ If you're on GitHub's web interface you can choose to commit directly to the repo's main branch (i.e.,  `master`  or  `main`) which will make it immediately visible on your profile)
 # 4.  Push changes to GitHub (if you made changes locally i.e., on your computer and not github.com)
 
 and **Boooom** 🎇
