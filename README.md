@@ -1,19 +1,18 @@
 # How to make a great GitHub Read.me (Portfolio)
 
 GitHub recently released a feature that allows users to create a profile-level README to display prominently on their GitHub profile.
+
 ![Screenshot (68)](https://user-images.githubusercontent.com/71748600/104558442-cd8ba280-5668-11eb-8716-347bc1c1ca9b.png)
 
 1.  Create a new repository with the same name (including casing) as your GitHub username:  [https://github.com/new](https://github.com/new)
     
 2.  Create a README.md file inside the new repo with content (text, GIFs, images, emojis, etc.)
     
-3.  Commit your fancy new README!
-    
-    -   If you're on GitHub's web interface you can choose to commit directly to the repo's main branch (i.e.,  `master`  or  `main`) which will make it immediately visible on your profile)
-4.  Push changes to GitHub (if you made changes locally i.e., on your computer and not github.com)
- 
 
-![enter image description here](https://www.aboutmonica.com/media/create-repository.jpg)
+![Screenshot (66)](https://user-images.githubusercontent.com/71748600/104558451-d3818380-5668-11eb-8d2a-f69a3a5f4dbb.png)
+
+![Screenshot (67)](https://user-images.githubusercontent.com/71748600/104558447-d11f2980-5668-11eb-8f9f-a125562fab21.png)
+
 
  Copy below written code and paste it on your ReadMe file. 
         
@@ -71,7 +70,10 @@ GitHub recently released a feature that allows users to create a profile-level R
     
     ## <div align="center">Show some ❤️ by starring some of the repositories!</div>
 
-
+3.  Commit your fancy new README!
+    
+    -   If you're on GitHub's web interface you can choose to commit directly to the repo's main branch (i.e.,  `master`  or  `main`) which will make it immediately visible on your profile)
+4.  Push changes to GitHub (if you made changes locally i.e., on your computer and not github.com)
 
 and **Boooom** 🎇
 
