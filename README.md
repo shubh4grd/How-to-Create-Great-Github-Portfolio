@@ -6,13 +6,13 @@ GitHub recently released a feature that allows users to create a profile-level R
 
 1.  Create a new repository with the same name (including casing) as your GitHub username:  [https://github.com/new](https://github.com/new)
     
-2.  Create a README.md file inside the new repo with content (text, GIFs, images, emojis, etc.)
     
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/71748600/104558451-d3818380-5668-11eb-8d2a-f69a3a5f4dbb.png)
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/71748600/104558447-d11f2980-5668-11eb-8f9f-a125562fab21.png)
 
+2.  Create a README.md file inside the new repo with content (text, GIFs, images, emojis, etc.)
 
  Copy below written code and paste it on your ReadMe file. 
         
