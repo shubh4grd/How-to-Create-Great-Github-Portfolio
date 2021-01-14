@@ -1,7 +1,7 @@
 # How to make a great GitHub Read.me (Portfolio)
 
 GitHub recently released a feature that allows users to create a profile-level README to display prominently on their GitHub profile.
-![enter image description here](https://www.aboutmonica.com/media/monica-github-readme-edit.gif)
+![Screenshot (68)](https://user-images.githubusercontent.com/71748600/104558442-cd8ba280-5668-11eb-8716-347bc1c1ca9b.png)
 
 1.  Create a new repository with the same name (including casing) as your GitHub username:  [https://github.com/new](https://github.com/new)
     
