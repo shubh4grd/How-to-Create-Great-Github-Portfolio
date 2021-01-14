@@ -70,6 +70,8 @@ GitHub recently released a feature that allows users to create a profile-level R
     
     ## <div align="center">Show some ❤️ by starring some of the repositories!</div>
 
+**Note : Edit User name and whatever needed**
+
 # 3.  Commit your fancy new README!
     
  If you're on GitHub's web interface you can choose to commit directly to the repo's main branch (i.e.,  `master`  or  `main`) which will make it immediately visible on your profile)
