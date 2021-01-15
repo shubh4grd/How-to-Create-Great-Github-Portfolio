@@ -1,5 +1,4 @@
 # How to make a great GitHub Read.me (Portfolio)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Copied&color=red&style=plastic" alt="shubh4grd" /> </p>
 
 
 GitHub recently released a feature that allows users to create a profile-level README to display prominently on their GitHub profile.
